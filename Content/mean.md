@@ -1,3 +1,3 @@
 ## Angular2, Nodejs, Typescript
 
-[<<<<<< back](../Readme.md)
+[<<<<<< back](../README.md)
